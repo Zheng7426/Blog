@@ -1,2 +1,2 @@
-# guitarBlog
-Sharing some thoughts on acoustic guitar playing.
+# Blog
+Sharing some thoughts on various things from daily life.
